@@ -1,5 +1,5 @@
-owner = VIJ
-controller = VIJ
+
+
 add_core = VIJ
 add_core = HYD
 add_core = DRA

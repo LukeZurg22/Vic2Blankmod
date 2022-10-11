@@ -1,5 +1,5 @@
-owner = BRG
-controller = BRG
+
+
 add_core = BRG
 add_core = FLA
 trade_goods = grain

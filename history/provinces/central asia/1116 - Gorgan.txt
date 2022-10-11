@@ -1,5 +1,5 @@
-owner = AFS
-controller = AFS
+
+
 add_core = AFS         
 add_core = ARY
 add_core = PER

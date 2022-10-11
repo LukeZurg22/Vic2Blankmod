@@ -1,5 +1,5 @@
-owner = TIR
-controller = TIR
+
+
 add_core = TIR
 add_core = GER
 add_core = BAV

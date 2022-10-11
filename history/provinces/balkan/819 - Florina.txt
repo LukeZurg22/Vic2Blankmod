@@ -1,5 +1,5 @@
-owner = MAC
-controller = MAC
+
+
 add_core = GRE
 add_core = MAC
 trade_goods = coal

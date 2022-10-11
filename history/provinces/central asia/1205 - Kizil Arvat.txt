@@ -1,5 +1,5 @@
-owner = AFS
-controller = AFS
+
+
 add_core = AFS
 terrain = desert
 trade_goods = fish
