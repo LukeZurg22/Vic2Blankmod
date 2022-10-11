@@ -1,0 +1,7 @@
+
+
+add_core = MAL
+add_core = FJA
+trade_goods = cattle
+terrain = semidesert
+life_rating = 30

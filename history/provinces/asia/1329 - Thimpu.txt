@@ -1,0 +1,5 @@
+
+
+add_core = BHU
+trade_goods = wool
+life_rating = 30

@@ -1,0 +1,6 @@
+
+
+add_core = GAN
+trade_goods = wool
+terrain = savanna
+life_rating = 35

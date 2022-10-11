@@ -1,0 +1,6 @@
+
+
+add_core = MAL
+trade_goods = cattle
+terrain = semidesert
+life_rating = 40

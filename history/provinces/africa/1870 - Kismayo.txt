@@ -1,0 +1,6 @@
+
+
+add_core = AJU
+trade_goods = cattle
+terrain = savanna
+life_rating = 30

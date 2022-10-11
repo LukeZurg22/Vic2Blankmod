@@ -1,0 +1,6 @@
+
+
+add_core = AMA
+trade_goods = coffee
+terrain = farmlands
+life_rating = 40

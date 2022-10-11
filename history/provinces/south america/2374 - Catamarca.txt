@@ -1,0 +1,6 @@
+
+
+add_core = INC
+trade_goods = wool
+terrain = dryhills
+life_rating = 35

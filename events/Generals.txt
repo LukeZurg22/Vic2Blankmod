@@ -1,0 +1,30 @@
+country_event = {
+    id = 600000
+    allow_multiple_instances = yes
+    trigger = {
+    ai = no
+    NOT = {
+        OR = {
+            #add tags of countries with specific events here
+            has_leader = "Turkish Spongebob"
+        }
+    }
+    mean_time_to_happen = {
+        days = 1
+    }
+    title = "Former Turkish Politician Hired As General"
+    desc = "A strange Turkish man arrives in our land."
+    picture = "turkish_spongebob"
+    immediate = {
+        define_general = {
+            name = "Turkish Spongebob"
+            #+3 defence.
+            personality = defence_3.1
+            #+3 attack.
+            background = attack_3.1
+        }
+    }
+    option = {
+        name = "If there's no other choice..."
+    }
+}
