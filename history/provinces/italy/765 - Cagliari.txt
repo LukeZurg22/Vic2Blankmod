@@ -1,5 +1,5 @@
-owner = ARA
-controller = ARA
+
+
 add_core = ARA
 add_core = SRD
 add_core = ITA
