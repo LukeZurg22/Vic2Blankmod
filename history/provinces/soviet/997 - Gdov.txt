@@ -1,5 +1,5 @@
-owner = PSV
-controller = PSV
+
+
 add_core = RUS
 add_core = NOV
 add_core = PSV

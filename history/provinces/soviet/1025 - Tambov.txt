@@ -1,5 +1,5 @@
-owner = MUS
-controller = MUS
+
+
 add_core = RUS
 add_core = MUS
 trade_goods = grain

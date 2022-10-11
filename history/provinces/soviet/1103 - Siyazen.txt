@@ -1,5 +1,5 @@
-owner = AZB
-controller = AZB
+
+
 add_core = DAG
 add_core = AZB
 trade_goods = fruit
